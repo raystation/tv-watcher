@@ -1,0 +1,5 @@
+readme.md
+*.sass-cache/
+*.DS_Store
+z_deprecated/
+sftp-config.json

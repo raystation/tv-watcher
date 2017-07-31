@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^thrones$ index.php?n=thrones
+RewriteRule ^one-piece$ index.php?n=one-piece
+RewriteRule ^breaking-bad$ index.php?n=breaking-bad
